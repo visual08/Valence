@@ -4,7 +4,7 @@ Welcome to the Valence App repository!
 
 ## Download Latest Version
 
-[**Click here to download the latest Valence version**](https://www.dropbox.com/scl/fi/rubu8t2u3gycxl3c133nz/Valence1.0.1.1.zip?rlkey=o39bup8prxd5k4hfv0035jei3&st=znpzrvio&dl=1)
+[**Click here to download the latest Valence version**](https://www.dropbox.com/scl/fi/7vk5jvu6e3x80bxxavsj8/ValenceBootstrapper.zip?rlkey=dz87r079qmszs25zo7sg51wn5&st=im0pzk42&dl=1)
 
 ## Getting Started & Troubleshooting
 
